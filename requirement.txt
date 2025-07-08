@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchainhub
+langchain-community
+pyodbc
+pypdf
+python-docx
+ollama
+docx
+psutil
